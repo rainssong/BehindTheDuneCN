@@ -1,0 +1,5 @@
+Her 
+--- RECORDSEPARATOR ---
+Mood
+--- RECORDSEPARATOR ---
+ increases.

@@ -1,0 +1,9 @@
+Kaleena's status is displayed here. 
+--- RECORDSEPARATOR ---
+活力：
+--- RECORDSEPARATOR ---
+ replenish with rest
+--- RECORDSEPARATOR ---
+情绪：
+--- RECORDSEPARATOR ---
+ replenish by talking with her

@@ -1,0 +1,9 @@
+Kaleena's status is displayed here. 
+--- RECORDSEPARATOR ---
+Energy:
+--- RECORDSEPARATOR ---
+ replenish with rest
+--- RECORDSEPARATOR ---
+Mood:
+--- RECORDSEPARATOR ---
+ replenish by talking with her

@@ -1,0 +1,15 @@
+You have auto-completed the game up to 
+--- RECORDSEPARATOR ---
+Selene's final training.
+--- RECORDSEPARATOR ---
+Do you want to 
+--- RECORDSEPARATOR ---
+play through Selene's 
+--- RECORDSEPARATOR ---
+training 
+--- RECORDSEPARATOR ---
+or 
+--- RECORDSEPARATOR ---
+skip to the end
+--- RECORDSEPARATOR ---
+?

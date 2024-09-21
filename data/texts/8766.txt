@@ -1,0 +1,5 @@
+Her 
+--- RECORDSEPARATOR ---
+力量
+--- RECORDSEPARATOR ---
+ increases.

@@ -1,0 +1,15 @@
+Your slave's status is displayed here. 
+--- RECORDSEPARATOR ---
+Energy:
+--- RECORDSEPARATOR ---
+ replenish with rest
+--- RECORDSEPARATOR ---
+Hunger:
+--- RECORDSEPARATOR ---
+ 
+--- RECORDSEPARATOR ---
+replenish with feeding
+--- RECORDSEPARATOR ---
+Mood:
+--- RECORDSEPARATOR ---
+ replenish by talking with her

@@ -1,0 +1,3 @@
+Displays the current quest you need to 
+--- RECORDSEPARATOR ---
+完成推进故事。

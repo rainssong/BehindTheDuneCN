@@ -1,0 +1,13 @@
+Your slave's status is displayed here. 
+--- RECORDSEPARATOR ---
+活力：
+--- RECORDSEPARATOR ---
+ replenish with rest
+--- RECORDSEPARATOR ---
+Hunger: 
+--- RECORDSEPARATOR ---
+喂养补充
+--- RECORDSEPARATOR ---
+情绪：
+--- RECORDSEPARATOR ---
+ replenish by talking with her

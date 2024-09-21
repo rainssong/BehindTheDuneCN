@@ -1,0 +1,7 @@
+Are you sure you want to 
+--- RECORDSEPARATOR ---
+start a new game? 
+--- RECORDSEPARATOR ---
+All current progress will 
+--- RECORDSEPARATOR ---
+be lost.

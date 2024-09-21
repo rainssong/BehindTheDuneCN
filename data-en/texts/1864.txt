@@ -1,0 +1,3 @@
+Displays the current quest you need to 
+--- RECORDSEPARATOR ---
+complete to advance the story.

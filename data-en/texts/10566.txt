@@ -1,0 +1,3 @@
+Warrior 
+--- RECORDSEPARATOR ---
+beats sword

@@ -1,0 +1,15 @@
+You have auto-completed the game up to 
+--- RECORDSEPARATOR ---
+塞勒涅的最后训练。
+--- RECORDSEPARATOR ---
+Do you want to 
+--- RECORDSEPARATOR ---
+play through Selene's 
+--- RECORDSEPARATOR ---
+training 
+--- RECORDSEPARATOR ---
+or 
+--- RECORDSEPARATOR ---
+跳到最后
+--- RECORDSEPARATOR ---
+？

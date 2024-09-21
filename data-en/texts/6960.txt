@@ -1,0 +1,25 @@
+The 
+--- RECORDSEPARATOR ---
+Power Balance Meter
+--- RECORDSEPARATOR ---
+ will change depending on 
+--- RECORDSEPARATOR ---
+which slave you choose to be the 
+--- RECORDSEPARATOR ---
+sub
+--- RECORDSEPARATOR ---
+ or 
+--- RECORDSEPARATOR ---
+dom
+--- RECORDSEPARATOR ---
+.
+--- RECORDSEPARATOR ---
+When Kaleena is ready to level up, the current state 
+--- RECORDSEPARATOR ---
+of balance will be stored for that chapter. The end 
+--- RECORDSEPARATOR ---
+outcome will influence the 
+--- RECORDSEPARATOR ---
+relationship between 
+--- RECORDSEPARATOR ---
+your slaves.

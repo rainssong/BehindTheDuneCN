@@ -1,0 +1,5 @@
+你赢得了这场战斗。
+--- RECORDSEPARATOR ---
+The Plant Girl seems to accept defeat. 
+--- RECORDSEPARATOR ---
+她同意和你一起回营地。

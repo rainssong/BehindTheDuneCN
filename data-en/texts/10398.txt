@@ -1,0 +1,7 @@
+The 
+--- RECORDSEPARATOR ---
+Power Balance
+--- RECORDSEPARATOR ---
+ for this chapter ends up as 
+--- RECORDSEPARATOR ---
+Equal

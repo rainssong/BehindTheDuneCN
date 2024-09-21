@@ -1,0 +1,5 @@
+Your slave spent too long on the Horse and had 
+--- RECORDSEPARATOR ---
+to use the safeword.
+--- RECORDSEPARATOR ---
+She gains no experience and her mood drops.

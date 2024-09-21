@@ -1,0 +1,5 @@
+Increases 
+--- RECORDSEPARATOR ---
+Mood
+--- RECORDSEPARATOR ---
+(Also access quests)

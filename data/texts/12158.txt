@@ -1,0 +1,7 @@
+She gives you 
+--- RECORDSEPARATOR ---
+10
+--- RECORDSEPARATOR ---
+ mushrooms
+--- RECORDSEPARATOR ---
+ in return.

@@ -1,0 +1,5 @@
+Selene's status is displayed here. 
+--- RECORDSEPARATOR ---
+Energy:
+--- RECORDSEPARATOR ---
+ replenish with rest
